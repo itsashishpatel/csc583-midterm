@@ -1,6 +1,11 @@
 # toro-net
 
 social networking bulletin board system
+# REFERENCE TO THE milestone.PNG image
+
+![alt text](https://github.com/itsashishpatel/csc583-midterm/blob/master/images/milestone.png)
+
+
 
 ## Team Structure
 
